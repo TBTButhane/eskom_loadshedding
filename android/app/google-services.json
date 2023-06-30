@@ -1,0 +1,180 @@
+{
+  "project_info": {
+    "project_number": "723205503587",
+    "firebase_url": "https://project-eskom.firebaseio.com",
+    "project_id": "project-eskom",
+    "storage_bucket": "project-eskom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723205503587:android:64dd7cdda8249351",
+        "android_client_info": {
+          "package_name": "com.example.electricity_fault_reporter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723205503587-vqrfg1d9l8u9bnn97q4nelm28degiscl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.electricity_fault_reporter",
+            "certificate_hash": "822dcb1a8420c72e66840f22d2fba961052521e1"
+          }
+        },
+        {
+          "client_id": "723205503587-3mt0p1netceu5b0spd11sff3aclbahif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZWWhN-2US6pxqyVvOBRstXNBqq860gOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723205503587-3mt0p1netceu5b0spd11sff3aclbahif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723205503587:android:bfa0c59107b1588e4c1656",
+        "android_client_info": {
+          "package_name": "com.example.electrity_fault_reportor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723205503587-3mt0p1netceu5b0spd11sff3aclbahif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZWWhN-2US6pxqyVvOBRstXNBqq860gOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723205503587-3mt0p1netceu5b0spd11sff3aclbahif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723205503587:android:28d892d3275ea1b0",
+        "android_client_info": {
+          "package_name": "com.example.eskomreportapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723205503587-3mt0p1netceu5b0spd11sff3aclbahif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZWWhN-2US6pxqyVvOBRstXNBqq860gOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723205503587-3mt0p1netceu5b0spd11sff3aclbahif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723205503587:android:614c9ba4a08c8d35",
+        "android_client_info": {
+          "package_name": "efr.com.example.efr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723205503587-2eut5hp6ovd3h91u3urn6pubne0652ft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "efr.com.example.efr",
+            "certificate_hash": "822dcb1a8420c72e66840f22d2fba961052521e1"
+          }
+        },
+        {
+          "client_id": "723205503587-3mt0p1netceu5b0spd11sff3aclbahif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZWWhN-2US6pxqyVvOBRstXNBqq860gOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723205503587-3mt0p1netceu5b0spd11sff3aclbahif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723205503587:android:373a2661e56779ce",
+        "android_client_info": {
+          "package_name": "eskomreportapp.example.com.eskom_report_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723205503587-1llku02rhckb2gdj7vjiqb47ms8moe62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eskomreportapp.example.com.eskom_report_app",
+            "certificate_hash": "822dcb1a8420c72e66840f22d2fba961052521e1"
+          }
+        },
+        {
+          "client_id": "723205503587-3mt0p1netceu5b0spd11sff3aclbahif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZWWhN-2US6pxqyVvOBRstXNBqq860gOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723205503587-3mt0p1netceu5b0spd11sff3aclbahif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
